@@ -12,8 +12,19 @@ This is an exploratory analysis of data from this bicycle company's dataset. The
 - Compare sales from different clients and sectors;
 - Draw up specific actions and strategies to boost the company's results.
 
-## Tools
+## Basic information
 
-Power BI was used to build data visualizations through reports and dashboards. 
+A national company's main product is the sale of bicycles in various countries. It has a consistent database with lots of information on sales.
 
-To complement the analysis and show my knowledge of other tools, Google Colab was used to produce a report with the data using Python.
+## What was asked
+
+The data should be reported weekly for the sales team to put together strategies during the week and monthly in a meeting for C-Level.
+
+## Strategic approach
+
+My approach entailed creating a comprehensive report to showcase the database insights holistically. 
+
+To achieve this, I utilized Power BI to present a report and set up a weekly information dashboard. 
+Furthermore, with the available data from the preceding week, I compiled an additional report.
+
+Additionally, we conducted an initial exploratory analysis with Python to gain a better understanding of the metrics and data that we need to analyze.
