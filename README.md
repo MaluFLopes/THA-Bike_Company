@@ -14,4 +14,6 @@ This is an exploratory analysis of data from this bicycle company's dataset. The
 
 ## Tools
 
-Power BI was used to build data visualizations through reports and dashboards, and Google Presentations was used to produce a slide show presenting some insights. To complement the analysis and show my knowledge of other tools, Google Colab was used to produce a report with the data using Python.
+Power BI was used to build data visualizations through reports and dashboards. 
+
+To complement the analysis and show my knowledge of other tools, Google Colab was used to produce a report with the data using Python.
