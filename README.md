@@ -26,5 +26,3 @@ My approach entailed creating a comprehensive report to showcase the database in
 
 To achieve this, I utilized Power BI to present a report and set up a weekly information dashboard. 
 Furthermore, with the available data from the preceding week, I compiled an additional report.
-
-Additionally, we conducted an initial exploratory analysis with Python to gain a better understanding of the metrics and data that we need to analyze.
